@@ -42,9 +42,9 @@ export default function Footer() {
               className="mb-6"
             >
               <img
-                src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/logo_1754318020323_0.png"
+                src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754318716438_wpolqhbj82a_NTCBag.png"
                 alt="NTCBag"
-                className="h-16 w-auto invert"
+                className="h-16 w-auto"
               />
             </motion.div>
             <p className="text-gray-300 text-lg leading-relaxed mb-6 max-w-md">
