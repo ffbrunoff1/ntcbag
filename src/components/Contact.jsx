@@ -58,6 +58,12 @@ export default function Contact() {
       link: 'mailto:contato@ntcbrasil.com.br'
     },
     {
+      icon: Phone,
+      title: 'Telefone',
+      content: '(11) 5242-4280',
+      link: 'tel:+551152424280'
+    },
+    {
       icon: MapPin,
       title: 'Localização',
       content: 'São Paulo, SP',
